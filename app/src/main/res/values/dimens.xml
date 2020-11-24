@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_title_size">45sp</dimen>
+    <dimen name="login_button_text_size">12sp</dimen>
+    <dimen name="login_title_x_top_margin">84dp</dimen>
+    <dimen name="login_title_x_left_margin">118dp</dimen>
+</resources>
